@@ -21,7 +21,8 @@ Welcome to my personal portfolio website repository! This project showcases my s
 # Live Preview
 
 Check out the live version of my portfolio here: Thembelani Sibiya Portfolio
-How to Contribute
+
+# How to Contribute
 
 If you'd like to suggest improvements or report bugs:
 
